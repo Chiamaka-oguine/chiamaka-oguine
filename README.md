@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiamaka Oguine</h1>
-<h3 align="center">A passionate Broadcast Journalist, Data Journalist and Data Analyst, with expertise in SQL, power BI, R programming, statistics, Datawrapper And Microsoft excel. I specialize in transforming raw data into actionable insights that drive informed decision making and delivering compelling stories through interactive dashboards and reports and also presenting finding to both primary and secondary stakeholders.</h3>
+<h3 align="center">Broadcast & Data Journalist | Data Analyst Transforming raw data into compelling stories and actionable insights. Skilled in SQL, Power BI, R, Statistics, Datawrapper & Excel. bridging the gap between complex data and informed decision-making through interactive dashboards, reports, and stakeholder presentations.</h3>
 
 - 👯 I’m looking to collaborate on **Data Analytical and AI Government Policy related project**
 
